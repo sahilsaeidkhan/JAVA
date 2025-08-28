@@ -1,3 +1,4 @@
+package Recursion;
 // fibonacci series simple question
 
 import java.util.Scanner;
@@ -10,8 +11,8 @@ public class fiborecursion {
     int n = sc.nextInt();
 
     int fibono = fib(n);
-    System.out.println(fibono);
-   } 
+    System.out.println("Fibo series at " + n + " " + "is" +  " " + fibono);
+   }
 
    static int fib(int n){
     if ( n < 2 ){

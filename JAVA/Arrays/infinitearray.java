@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.Arrays;
 public class infinitearray {
     public static void main(String[] args) {
         int arr[] = {2,4,6,8,9,13,45,65,78};

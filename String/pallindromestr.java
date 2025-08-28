@@ -1,3 +1,4 @@
+package String;
 
 public class pallindromestr {
     public static void main(String[] args){
