@@ -1,4 +1,4 @@
-package Recursion;
+package JAVA.Recursion;
 // fibonacci series simple question
 
 import java.util.Scanner;
