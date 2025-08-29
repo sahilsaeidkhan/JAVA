@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.Others;
                public class binarypair {
     public static void main(String[] args) {
         // Example where "return immediately" would FAIL

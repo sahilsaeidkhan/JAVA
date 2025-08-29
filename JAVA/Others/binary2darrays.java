@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.Others;
 public class binary2darrays {
     public static void main(String[] args) {
         int[][] arr = {

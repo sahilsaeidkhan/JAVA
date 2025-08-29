@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.Others;
 public class doublet {
     public static void main(String[] args) {
 
