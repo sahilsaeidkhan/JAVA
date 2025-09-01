@@ -2,7 +2,7 @@
 
 public class setbit {
     public static void main(String[] args) {
-        int n = 44;
+        int n = 6;
         System.out.println(changebit(n));
     }
     static int changebit(int n){
