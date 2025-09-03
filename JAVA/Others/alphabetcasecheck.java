@@ -1,3 +1,4 @@
+package JAVA.Others;
 import java.util.Scanner;
 
 public class alphabetcasecheck {
