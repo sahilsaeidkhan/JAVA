@@ -1,4 +1,4 @@
-package JAVA.Sort;
+package JAVA.Sorting;
 import java.util.Arrays;
 
 public class insertionsort {

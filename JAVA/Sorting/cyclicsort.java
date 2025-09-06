@@ -1,4 +1,4 @@
-package JAVA.Sort;
+package JAVA.Sorting;
 // a basic cyclic sort program 
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package JAVA.Sort;
+package JAVA.Sorting;
 public class duplicatecyclic {
     public static void main(String[] args) {
         int[] arr = {3,2,1,2};

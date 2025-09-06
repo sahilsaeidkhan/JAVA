@@ -1,4 +1,4 @@
-package JAVA.Sort;
+package JAVA.Sorting;
 public class bubblesort {
     public static void main(String[] args) {
         int[] arr = {3, 5, 1, 78, 6};

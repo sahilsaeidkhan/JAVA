@@ -1,4 +1,4 @@
-package JAVA.Sort;
+package JAVA.Sorting;
 public class missingcyclicsort {
    public static void main(String[] args) {
     int[] arr = {4,1,2};

@@ -1,4 +1,4 @@
-package JAVA.Sort;
+package JAVA.Sorting;
 import java.util.Arrays;
 
 // put max or min element and put in right position 
