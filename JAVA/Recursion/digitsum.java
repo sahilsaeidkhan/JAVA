@@ -1,3 +1,4 @@
+package JAVA.Recursion;
 public class digitsum {
     public static void main(String[] args) {
         int n = 123456;
