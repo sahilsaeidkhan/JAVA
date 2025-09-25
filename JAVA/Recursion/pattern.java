@@ -1,7 +1,8 @@
+package JAVA.Recursion;
 public class pattern {
     public static void main(String[] args) {
         int r = 5;
-        int c = 6;
+        int c = 5;
         triangle(r,c);
     }
     public static void triangle(int r, int c){

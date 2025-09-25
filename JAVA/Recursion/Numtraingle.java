@@ -1,3 +1,4 @@
+package JAVA.Recursion;
 
 public class Numtraingle {
     public static void main(String[] args) {
