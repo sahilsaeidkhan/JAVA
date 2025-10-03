@@ -1,0 +1,1 @@
+print("This is my first python code ( Date is 3 October)")
